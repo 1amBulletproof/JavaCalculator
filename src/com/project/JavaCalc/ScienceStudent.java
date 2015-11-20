@@ -1,6 +1,6 @@
 //ScienceStudent, Exercise 13-3, Page 564
 
-package javaCalc;
+package com.project.JavaCalc;
 
 import javax.swing.JOptionPane;
 class ScienceStudent extends Student {

@@ -1,6 +1,6 @@
 //EnglishStudent, Exercise 13-1, Page 558
 
-package javaCalc;
+package com.project.JavaCalc;
 
 import javax.swing.JOptionPane;
 class EnglishStudent extends Student {

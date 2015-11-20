@@ -1,5 +1,5 @@
 //GradesGUI,  No changes required for Chapter 13
-package javaCalc;
+package com.project.JavaCalc;
 
 import javax.swing.*;
 import java.awt.*;

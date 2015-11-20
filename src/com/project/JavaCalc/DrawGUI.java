@@ -1,5 +1,5 @@
 //DrawGUI, Exercise 13-7, Page 577
-package javaCalc;
+package com.project.JavaCalc;
 
 import java.awt.*;
 import javax.swing.*;

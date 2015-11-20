@@ -1,6 +1,6 @@
 //ResetButtonListener, Exercise 13-6, Page 574
 
-package javaCalc;
+package com.project.JavaCalc;
 
 import java.awt.*;
 import java.awt.event.*;

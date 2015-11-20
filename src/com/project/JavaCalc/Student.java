@@ -1,8 +1,10 @@
 //Student,  No changes required for Chapter 13
 
-package javaCalc;
+package com.project.JavaCalc;
 
 import javax.swing.JOptionPane;
+
+
 abstract class Student {
    protected int midterm = 0;
    protected int finalExamGrade = 0;

@@ -4,7 +4,7 @@
  * @version 1.0
  */
 
-package javaCalc;
+package com.project.JavaCalc;
 
 import java.awt.*;
 import java.awt.event.*;
