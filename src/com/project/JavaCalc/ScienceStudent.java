@@ -13,9 +13,7 @@ class ScienceStudent extends Student {
          System.out.println ("ScienceStudent's constructor");
       }
 
-   public void calculate(int midterm,
-   							 int finalExamGrade,
-   							 int research)
+   public void calculate(int midterm, int finalExamGrade, int research)
    {
       finalNumericGrade =
          (midterm * SCIENCE_MIDTERM_PERCENTAGE) +
